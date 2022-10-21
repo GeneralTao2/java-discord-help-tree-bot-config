@@ -53,7 +53,7 @@ childText:
               en: "Please describe the issue in as much detail as possible, preferably with screenshots, including the following information: When the problem happened; How the problem manifests itself (error message or unintended behavior); How to reproduce the problem step by step."
               ru: "Пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть проблемы, указав следующую информацию: в какой момент возникает ошибка; как проявляется ошибка (текст ошибки или какое-то некорректное поведение); что нужно сделать шаг за шагом, чтобы ошибка повторилась."
             func: ask_input
-            targetId: 220196571868823562
+            targetId: 383277523561086979
   - text:
       en: "I have a question about one of the mods"
       ru: "У меня вопрос по одному из модов"
@@ -66,7 +66,7 @@ childText:
               en: "Please describe the issue in as much detail as possible, preferably with screenshots"
               ru: "Пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
             func: ask_input
-            targetId: 168777263242936321
+            targetId: 383277523561086979
       - text:
           en: "The End of Days (TEOD)"
           ru: "The End of Days (TEOD)"
@@ -75,124 +75,7 @@ childText:
               en: "Please describe the issue in as much detail as possible, preferably with screenshots"
               ru: "Пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
             func: ask_input
-            targetId: 262545744890691584
-      - text:
-          en: "Contra"
-          ru: "Contra"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 196736340224638976
-      - text:
-          en: "Operation Firestorm"
-          ru: "Operation Firestorm"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 222240457717973004
-      - text:
-          en: "Shockwave"
-          ru: "Shockwave"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "Пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 168777263242936321
-      - text:
-          en: "World War 2"
-          ru: "World War 2"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "Пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 248807823184625665
-      - text:
-          en: "Zero Hour Reborn"
-          ru: "Zero Hour Reborn"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 221480812489474048
-      - text:
-          en: "NProject"
-          ru: "NProject"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 221584201697329152
-      - text:
-          en: "CnC Untitled"
-          ru: "CnC Untitled"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 221480812489474048
-      - text:
-          en: "Shockwave Chaos"
-          ru: "Shockwave Chaos"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 269889853347463179
-      - text:
-          en: "The power of the West"
-          ru: "The power of the West"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 492610159835873280
-      - text:
-          en: "Zero Hour Continue"
-          ru: "Zero Hour Continue"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 709790636181815396
-      - text:
-          en: "C&C Tiberian Dawn Redux"
-          ru: "C&C Tiberian Dawn Redux"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 879234202976002058
-      - text:
-          en: "Condition Zero"
-          ru: "Condition Zero"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 221480812489474048
-      - text:
-          en: "Project Raptor"
-          ru: "Project Raptor"
-        childText:
-          - text:
-              en: "Please describe the issue in as much detail as possible, preferably with screenshots"
-              ru: "На английском языке, пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
-            func: ask_input
-            targetId: 221480812489474048
+            targetId: 383277523561086979
   - text:
       en: "I have a question about Generals game"
       ru: "У меня вопрос по игре генералы"
