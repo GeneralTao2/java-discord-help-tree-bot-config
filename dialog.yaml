@@ -96,4 +96,3 @@ childText:
               en: "This is GenLauncher Discord server, one of the requirements for the GenLauncher work is the presence of an Generals, it is assumed that you have them and work. Technical support for generals is not provided on this server"
               ru: "Это дискорд сервер по GenLauncherу, одним из требований для работы GenLauncher является наличие чистых и рабочих генералов, подразумевается что они у вас уже есть. Техническая поддержка по генералам на этом сервере не оказывается."
             func: return_text
-            te
