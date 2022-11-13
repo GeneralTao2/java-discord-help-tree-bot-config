@@ -75,7 +75,7 @@ childText:
               en: "Please describe the issue in as much detail as possible, preferably with screenshots"
               ru: "Пожалуйста, как можно подробнее, по возможностью со скриншотами опиши суть вопроса"
             func: ask_input
-            targetId: 383277523561086979
+            targetId: 3832775235610869799
   - text:
       en: "I have a question about Generals game"
       ru: "У меня вопрос по игре генералы"
